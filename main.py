@@ -9,7 +9,7 @@ token = "5050526943:AAEpS8SSa2XgNybFIuM6yaFydKnfZnvS4AE"
 # Enter API Creds Here
 client = vonage.Client(application_id="7408b3ed-ba48-4766-8d70-9cdfa4b54eda",private_key="private.key")
  
-url = "mailsw.ddns.net"
+url = "https://bostsa.herokuapp.com/"
 
 number = "213555317998"
 
