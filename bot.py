@@ -5,7 +5,7 @@ from time import sleep
 
 from vonage import verify
 
-url = "mailsw.ddns.net"
+url = "https://bostsa.herokuapp.com/"
 
 token = "5050526943:AAEpS8SSa2XgNybFIuM6yaFydKnfZnvS4AE"
 
