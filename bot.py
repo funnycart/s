@@ -5,7 +5,7 @@ from time import sleep
 
 from vonage import verify
 
-url = "https://bostsa.herokuapp.com/"
+url = "http://104.248.82.166/"
 
 token = "5050526943:AAEpS8SSa2XgNybFIuM6yaFydKnfZnvS4AE"
 
