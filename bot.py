@@ -18,7 +18,7 @@ def verify(username):
         return False
 
 def start(update, context):
-    update.message.reply_text(f"Hiii {update.message.from_user['username']},\nWelcome to Sparky OTP Bot.")
+    update.message.reply_text(f"Hello {update.message.from_user['username']},\nWelcome to  OTP Bot. to use this bot you need to buy your licence key to get full acces in the bot")
 
 def bank(update, context):
     if verify(update.message.from_user['username']):    
